@@ -1,0 +1,81 @@
+overall you are doing well Aryan but there are some fundamental things you need to work on.
+I've included notes about most of your programs. For some of them I want you to incorporate my notes
+and create another version of the program incorporating the feedback. If you have questions - PLEASE ASK!!!!
+
+
+
+12by12 - rather than using a single for loop, look at using nested for loops.
+            Let the computer do the work for you, rather than you doing it
+            by adding a really long print statement. There are examples in the book.
+            search - nested for loop
+ch10_1
+
+DEBUG
+
+DRUNKpirate - rather than having so many duplicate statements with different arguments, look at
+            creating a list then loop on that list with just two moves in the body of the loop.
+
+Ecercise1_ch9
+
+Encapsulate
+
+EvenNum - your function should have a parameter. When you call your function, the argument should
+            be the list that you created before the call. Give that list a different name outside
+             of your function. Also, you have created a function which
+            does a print - a chatterbox function. Remove the print from the function, add a return,
+            then do your print in the main part of your program.
+
+            *** I want to see your new version of the this program.***
+
+Exercise_13 - in these chapter 8 problems you are not following directions. You were supposed to include
+            a test suite. The book specified several test cases. Also, you used a method we haven't learned yet in the book. That's fine that
+            you found a suitable method, but you also need to create your own version of the program that
+            uses just what we have learned and show that it works.
+
+            ***Please redo and let me know when it's corrected.
+            Don't delete this program, just create a new file called Exercise_13_ver2 and then let me know when
+            it's complete.
+
+HowManyOddNum - same note as in EvenNum.   Please add a _ver2  and let me know when it's done.
+
+LastExercise - your program doesn't work. Be sure you go through the solution and debug your program.
+
+Mirror - add a test suite. please follow the directions in the exercises....
+
+MOdify - if list = "OJQSPM", your program wouldn't work. Think about how you could modify it so it would
+   work no matter the order of the also - need to encapsulate this.
+   same note as EvenNum - no Chatterbox functions!! redo _ver2
+
+NegativeNumbers - same note as EvenNum - redo _ver2.  Also - was this program supposed to be counting the negative numbers
+                or summing the negative numbers?
+
+NumDigits - where is your test suite?????? redo - _ver2
+
+NumEvenDigits - test suite
+
+Palindrome - test suite
+
+ParagraphTjing - look over the solution to this and make sure you understand it.  Then create _ver2
+                    of your program, incorporating changes from the solution.
+
+Problem1_ch9 - your solution is incorrect. Look over the solution and make sure you understand it.
+               look up the definition of a tuple in your  book. make sure you understand how to
+               create a tuple. Ask questions if needed.....
+
+RemoveLetter - you're using a method we haven't covered yet.... show solution without that method.   Also
+                your second for loop has an error. Think about how you would solve this problem without
+                programming. You would ask is the letter I am checking for in the word, not is the part of the
+                word I am checking in the letter.....
+
+
+Shapes  - are you working through this? would love to see it when you get it running...
+
+SubString - you are using methods not in the book. please redo _ver2
+
+SumOfsquares - your variable names need to make sense. You aren't actually counting anything in this program.
+            rename count to something that makes sense.
+
+Words5 - chatterbox function. Also, change the name of your list to something different from the function's parameter.
+
+WordsBackwards - notice that you are printing None. Fix that. Also - you have created a chatterbox function here. c
+            correct in _ver2
